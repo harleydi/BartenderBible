@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #C9ADA7;
+    height: 4rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navLogo {
+    width: 15rem;
+    display: flex;
+    align-items: center;
+    font-family: 'Cinzel', serif;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    /* font-family: 'Cinzel', serif; */
+}
+
+.link {
+    padding-right: 4rem;
+    text-decoration: none;
+    color: black;
+}
